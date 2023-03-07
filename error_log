@@ -1,0 +1,162 @@
+[05-Mar-2023 15:40:04 America/Chicago] PHP Warning:  Undefined variable $k in /home3/firstch8/public_html/view.php on line 4
+[05-Mar-2023 15:40:04 America/Chicago] PHP Warning:  Undefined variable $stmt in /home3/firstch8/public_html/view.php on line 184
+[05-Mar-2023 15:40:04 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/firstch8/public_html/view.php:184
+Stack trace:
+#0 {main}
+  thrown in /home3/firstch8/public_html/view.php on line 184
+[05-Mar-2023 15:46:25 America/Chicago] PHP Warning:  Undefined variable $k in /home3/firstch8/public_html/view.php on line 4
+[05-Mar-2023 15:46:25 America/Chicago] PHP Warning:  Undefined variable $stmt in /home3/firstch8/public_html/view.php on line 184
+[05-Mar-2023 15:46:25 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/firstch8/public_html/view.php:184
+Stack trace:
+#0 {main}
+  thrown in /home3/firstch8/public_html/view.php on line 184
+[05-Mar-2023 15:51:43 America/Chicago] PHP Warning:  Undefined variable $k in /home3/firstch8/public_html/view.php on line 4
+[05-Mar-2023 15:51:43 America/Chicago] PHP Warning:  Undefined variable $stmt in /home3/firstch8/public_html/view.php on line 184
+[05-Mar-2023 15:51:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/firstch8/public_html/view.php:184
+Stack trace:
+#0 {main}
+  thrown in /home3/firstch8/public_html/view.php on line 184
+[05-Mar-2023 15:59:35 America/Chicago] PHP Warning:  Undefined variable $k in /home3/firstch8/public_html/view.php on line 4
+[05-Mar-2023 15:59:35 America/Chicago] PHP Warning:  Undefined variable $stmt in /home3/firstch8/public_html/view.php on line 184
+[05-Mar-2023 15:59:35 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/firstch8/public_html/view.php:184
+Stack trace:
+#0 {main}
+  thrown in /home3/firstch8/public_html/view.php on line 184
+[05-Mar-2023 16:03:12 America/Chicago] PHP Warning:  Undefined variable $k in /home3/firstch8/public_html/view.php on line 4
+[05-Mar-2023 16:03:12 America/Chicago] PHP Warning:  Undefined variable $stmt in /home3/firstch8/public_html/view.php on line 184
+[05-Mar-2023 16:03:12 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/firstch8/public_html/view.php:184
+Stack trace:
+#0 {main}
+  thrown in /home3/firstch8/public_html/view.php on line 184
+[05-Mar-2023 16:03:15 America/Chicago] PHP Warning:  Undefined variable $k in /home3/firstch8/public_html/view.php on line 4
+[05-Mar-2023 16:03:15 America/Chicago] PHP Warning:  Undefined variable $stmt in /home3/firstch8/public_html/view.php on line 184
+[05-Mar-2023 16:03:15 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/firstch8/public_html/view.php:184
+Stack trace:
+#0 {main}
+  thrown in /home3/firstch8/public_html/view.php on line 184
+[05-Mar-2023 16:05:06 America/Chicago] PHP Warning:  Undefined variable $k in /home3/firstch8/public_html/view.php on line 4
+[05-Mar-2023 16:05:06 America/Chicago] PHP Warning:  Undefined variable $stmt in /home3/firstch8/public_html/view.php on line 184
+[05-Mar-2023 16:05:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/firstch8/public_html/view.php:184
+Stack trace:
+#0 {main}
+  thrown in /home3/firstch8/public_html/view.php on line 184
+[05-Mar-2023 16:06:38 America/Chicago] PHP Warning:  Undefined array key "name" in /home3/firstch8/public_html/index.php on line 9
+[05-Mar-2023 16:06:38 America/Chicago] PHP Warning:  Undefined array key "rate" in /home3/firstch8/public_html/index.php on line 10
+[05-Mar-2023 16:06:38 America/Chicago] PHP Warning:  Undefined array key "feedback" in /home3/firstch8/public_html/index.php on line 11
+[05-Mar-2023 16:06:38 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/firstch8/public_html/index.php on line 14
+[05-Mar-2023 16:06:38 America/Chicago] PHP Warning:  Undefined variable $_SESSION in /home3/firstch8/public_html/index.php on line 17
+[05-Mar-2023 16:06:38 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/firstch8/public_html/index.php on line 17
+[05-Mar-2023 16:06:38 America/Chicago] PHP Warning:  Undefined array key "name" in /home3/firstch8/public_html/index.php on line 17
+[05-Mar-2023 16:06:38 America/Chicago] PHP Warning:  Undefined array key "name" in /home3/firstch8/public_html/index.php on line 37
+[05-Mar-2023 16:06:42 America/Chicago] PHP Warning:  Undefined variable $k in /home3/firstch8/public_html/view.php on line 4
+[05-Mar-2023 16:06:42 America/Chicago] PHP Warning:  Undefined variable $stmt in /home3/firstch8/public_html/view.php on line 184
+[05-Mar-2023 16:06:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/firstch8/public_html/view.php:184
+Stack trace:
+#0 {main}
+  thrown in /home3/firstch8/public_html/view.php on line 184
+[05-Mar-2023 16:06:44 America/Chicago] PHP Warning:  Undefined array key "name" in /home3/firstch8/public_html/index.php on line 9
+[05-Mar-2023 16:06:44 America/Chicago] PHP Warning:  Undefined array key "rate" in /home3/firstch8/public_html/index.php on line 10
+[05-Mar-2023 16:06:44 America/Chicago] PHP Warning:  Undefined array key "feedback" in /home3/firstch8/public_html/index.php on line 11
+[05-Mar-2023 16:06:44 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/firstch8/public_html/index.php on line 14
+[05-Mar-2023 16:06:44 America/Chicago] PHP Warning:  Undefined variable $_SESSION in /home3/firstch8/public_html/index.php on line 17
+[05-Mar-2023 16:06:44 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/firstch8/public_html/index.php on line 17
+[05-Mar-2023 16:06:44 America/Chicago] PHP Warning:  Undefined array key "name" in /home3/firstch8/public_html/index.php on line 17
+[05-Mar-2023 16:06:44 America/Chicago] PHP Warning:  Undefined array key "name" in /home3/firstch8/public_html/index.php on line 37
+[05-Mar-2023 16:11:42 America/Chicago] PHP Warning:  Undefined variable $k in /home3/firstch8/public_html/view.php on line 4
+[05-Mar-2023 16:11:42 America/Chicago] PHP Warning:  Undefined variable $stmt in /home3/firstch8/public_html/view.php on line 184
+[05-Mar-2023 16:11:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/firstch8/public_html/view.php:184
+Stack trace:
+#0 {main}
+  thrown in /home3/firstch8/public_html/view.php on line 184
+[05-Mar-2023 16:11:44 America/Chicago] PHP Warning:  Undefined variable $k in /home3/firstch8/public_html/view.php on line 4
+[05-Mar-2023 16:11:44 America/Chicago] PHP Warning:  Undefined variable $stmt in /home3/firstch8/public_html/view.php on line 184
+[05-Mar-2023 16:11:44 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/firstch8/public_html/view.php:184
+Stack trace:
+#0 {main}
+  thrown in /home3/firstch8/public_html/view.php on line 184
+[05-Mar-2023 21:11:39 America/Chicago] PHP Warning:  Undefined variable $k in /home3/firstch8/public_html/view.php on line 4
+[05-Mar-2023 21:11:39 America/Chicago] PHP Warning:  Undefined variable $stmt in /home3/firstch8/public_html/view.php on line 184
+[05-Mar-2023 21:11:39 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/firstch8/public_html/view.php:184
+Stack trace:
+#0 {main}
+  thrown in /home3/firstch8/public_html/view.php on line 184
+[05-Mar-2023 21:26:43 America/Chicago] PHP Warning:  Undefined variable $k in /home3/firstch8/public_html/view.php on line 4
+[05-Mar-2023 21:26:43 America/Chicago] PHP Warning:  Undefined variable $stmt in /home3/firstch8/public_html/view.php on line 184
+[05-Mar-2023 21:26:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/firstch8/public_html/view.php:184
+Stack trace:
+#0 {main}
+  thrown in /home3/firstch8/public_html/view.php on line 184
+[05-Mar-2023 21:26:44 America/Chicago] PHP Warning:  Undefined variable $k in /home3/firstch8/public_html/view.php on line 4
+[05-Mar-2023 21:26:44 America/Chicago] PHP Warning:  Undefined variable $stmt in /home3/firstch8/public_html/view.php on line 184
+[05-Mar-2023 21:26:44 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/firstch8/public_html/view.php:184
+Stack trace:
+#0 {main}
+  thrown in /home3/firstch8/public_html/view.php on line 184
+[05-Mar-2023 21:26:45 America/Chicago] PHP Warning:  Undefined variable $k in /home3/firstch8/public_html/view.php on line 4
+[05-Mar-2023 21:26:45 America/Chicago] PHP Warning:  Undefined variable $stmt in /home3/firstch8/public_html/view.php on line 184
+[05-Mar-2023 21:26:45 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/firstch8/public_html/view.php:184
+Stack trace:
+#0 {main}
+  thrown in /home3/firstch8/public_html/view.php on line 184
+[05-Mar-2023 21:26:46 America/Chicago] PHP Warning:  Undefined variable $k in /home3/firstch8/public_html/view.php on line 4
+[05-Mar-2023 21:26:46 America/Chicago] PHP Warning:  Undefined variable $stmt in /home3/firstch8/public_html/view.php on line 184
+[05-Mar-2023 21:26:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/firstch8/public_html/view.php:184
+Stack trace:
+#0 {main}
+  thrown in /home3/firstch8/public_html/view.php on line 184
+[05-Mar-2023 21:26:47 America/Chicago] PHP Warning:  Undefined variable $k in /home3/firstch8/public_html/view.php on line 4
+[05-Mar-2023 21:26:47 America/Chicago] PHP Warning:  Undefined variable $stmt in /home3/firstch8/public_html/view.php on line 184
+[05-Mar-2023 21:26:47 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/firstch8/public_html/view.php:184
+Stack trace:
+#0 {main}
+  thrown in /home3/firstch8/public_html/view.php on line 184
+[05-Mar-2023 21:26:49 America/Chicago] PHP Warning:  Undefined variable $k in /home3/firstch8/public_html/view.php on line 4
+[05-Mar-2023 21:26:49 America/Chicago] PHP Warning:  Undefined variable $stmt in /home3/firstch8/public_html/view.php on line 184
+[05-Mar-2023 21:26:49 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/firstch8/public_html/view.php:184
+Stack trace:
+#0 {main}
+  thrown in /home3/firstch8/public_html/view.php on line 184
+[05-Mar-2023 21:26:49 America/Chicago] PHP Warning:  Undefined variable $k in /home3/firstch8/public_html/view.php on line 4
+[05-Mar-2023 21:26:49 America/Chicago] PHP Warning:  Undefined variable $stmt in /home3/firstch8/public_html/view.php on line 184
+[05-Mar-2023 21:26:49 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/firstch8/public_html/view.php:184
+Stack trace:
+#0 {main}
+  thrown in /home3/firstch8/public_html/view.php on line 184
+[05-Mar-2023 21:26:50 America/Chicago] PHP Warning:  Undefined variable $k in /home3/firstch8/public_html/view.php on line 4
+[05-Mar-2023 21:26:50 America/Chicago] PHP Warning:  Undefined variable $stmt in /home3/firstch8/public_html/view.php on line 184
+[05-Mar-2023 21:26:50 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/firstch8/public_html/view.php:184
+Stack trace:
+#0 {main}
+  thrown in /home3/firstch8/public_html/view.php on line 184
+[05-Mar-2023 21:31:21 America/Chicago] PHP Warning:  Undefined variable $k in /home3/firstch8/public_html/view.php on line 4
+[05-Mar-2023 21:31:21 America/Chicago] PHP Warning:  Undefined variable $stmt in /home3/firstch8/public_html/view.php on line 184
+[05-Mar-2023 21:31:21 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/firstch8/public_html/view.php:184
+Stack trace:
+#0 {main}
+  thrown in /home3/firstch8/public_html/view.php on line 184
+[05-Mar-2023 22:58:04 America/Chicago] PHP Warning:  Undefined variable $k in /home3/firstch8/public_html/view.php on line 4
+[05-Mar-2023 22:58:04 America/Chicago] PHP Warning:  Undefined variable $stmt in /home3/firstch8/public_html/view.php on line 184
+[05-Mar-2023 22:58:04 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/firstch8/public_html/view.php:184
+Stack trace:
+#0 {main}
+  thrown in /home3/firstch8/public_html/view.php on line 184
+[05-Mar-2023 22:58:06 America/Chicago] PHP Warning:  Undefined variable $k in /home3/firstch8/public_html/view.php on line 4
+[05-Mar-2023 22:58:06 America/Chicago] PHP Warning:  Undefined variable $stmt in /home3/firstch8/public_html/view.php on line 184
+[05-Mar-2023 22:58:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/firstch8/public_html/view.php:184
+Stack trace:
+#0 {main}
+  thrown in /home3/firstch8/public_html/view.php on line 184
+[05-Mar-2023 23:09:04 America/Chicago] PHP Warning:  Undefined variable $k in /home3/firstch8/public_html/view.php on line 4
+[05-Mar-2023 23:09:04 America/Chicago] PHP Warning:  Undefined variable $stmt in /home3/firstch8/public_html/view.php on line 184
+[05-Mar-2023 23:09:04 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/firstch8/public_html/view.php:184
+Stack trace:
+#0 {main}
+  thrown in /home3/firstch8/public_html/view.php on line 184
+[05-Mar-2023 23:10:14 America/Chicago] PHP Warning:  Undefined variable $k in /home3/firstch8/public_html/reviews.php on line 4
+[05-Mar-2023 23:10:14 America/Chicago] PHP Warning:  Undefined array key "name" in /home3/firstch8/public_html/reviews.php on line 13
+[05-Mar-2023 23:10:14 America/Chicago] PHP Warning:  Undefined variable $stmt in /home3/firstch8/public_html/reviews.php on line 216
+[05-Mar-2023 23:10:14 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home3/firstch8/public_html/reviews.php:216
+Stack trace:
+#0 {main}
+  thrown in /home3/firstch8/public_html/reviews.php on line 216
+[06-Mar-2023 20:50:56 America/Chicago] PHP Warning:  Undefined array key "name" in /home3/firstch8/public_html/reviews.php on line 13
